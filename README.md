@@ -78,6 +78,8 @@ julia run.jl -w 120 -e 100 -H 128 -a 0.05
 julia run.jl -m benchmark
 ```
 
+the results will be stored in result folder which is created while running the project
+
 Methods
 
 1. Data Preprocessing: Time series data is normalized and transformed into sliding windows.
